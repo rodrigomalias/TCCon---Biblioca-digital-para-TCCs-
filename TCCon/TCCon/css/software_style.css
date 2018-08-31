@@ -1,0 +1,1300 @@
+﻿@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.DivConfirmarAcao {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 9999;
+	text-align: center;
+}
+#DivConfirmarAlterar {
+	display:none;
+}
+#DivConfirmarExcluir {
+	display: none;
+}
+.DivContainerConfirmar {
+	width: 250px;
+	height: 150px;
+	background-color: white;
+	text-align: center;
+	display: inline-block;
+	opacity: 1;
+	margin-top: 25%;
+	border-radius: 5px;
+	box-shadow: 0px 0px 3px 1px #000000;
+}
+.DivCancelarX {
+	width: 100%;
+	height: 20px;
+	background-color: #a3130d;
+	text-align: right;
+	position: relative;
+	display: block;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	box-shadow: 0px 0px 3px #000000;
+	z-index:10;
+}
+.DivCancelarX button {
+	width: 20px;
+	background-color: transparent;
+	border: none;
+	color: #ffffff;
+	cursor: pointer;
+	transition: 0.5s all;
+}
+.DivCancelarX button:hover {
+	color:#000000;
+	transition:0.5s all;
+}
+.DivMensagemConfirmar {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	display: block;
+	background-color:#ffffff;
+}
+.DivMensagemConfirmar p {
+	padding-top: 35px;
+	background-color:;
+	font-size: 1.1em;
+	color: #a3130d;
+	text-shadow: 0px 1px 4px #aaa;
+}
+.DivBotoesConfirmar {
+	width: 100%;
+	height: 30px;
+	position: relative;
+	display: block;
+	background-color: #a3130d;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	text-align: right;
+	box-shadow: 0px 0px 3px #000000;
+	z-index:10;
+}
+.DivBotoesConfirmar li {
+	list-style:none;
+}
+.btnConfirmarAcao {
+	width: 80px;
+	height: 30px;
+	border: none;
+	color: #ffffff;
+	background-color: transparent;
+	font-weight:;
+	cursor: pointer;
+	transition: 0.5s all;
+	text-shadow: 0px 1px 4px #ccc;
+}
+.btnConfirmarAcao:hover {
+	color: #000000;
+	transition: 0.5s all;
+	text-shadow: 0px 1px 4px #000000;
+}
+.DivGifBackGround {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: rgba(0,0,0,0.4);
+	z-index: 9999;
+	text-align: center;
+}
+.GifDisplayBlock {
+	display:block;
+}
+.GifDisplayNone {
+	display:none;
+}
+.DivGif {	
+	width: 200px;
+	height: auto;
+	background-color: transparent;
+	text-align: center;
+	display: inline-block;
+	opacity: 1;
+	margin-top: 25%;
+}
+
+.DivGif img {
+	width: 80px;
+	height: 80px;
+}
+.div_usuario p {
+	margin-top: 16px;
+}
+.LabelRarDisplayNone {
+	display: none;
+}
+.LabelRarDisplayInline {
+	display:inline;
+}
+.div_unidade_1024px, div_unidade_1023px p {
+	margin-top: 13px;
+}
+#lblUsuario {
+	color: #a3130d;
+}
+#lblNomeUnidade1024px, #lblNomeUnidade1023px {
+	color: #000000;
+	font-size: 2em;
+	font-weight: bold;
+}
+.top_software {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	height: auto;
+	z-index: 30;
+	background-color: #F2F4F4;
+	box-shadow: 0px 0px 3px 1px #000000;
+}
+.btn_selecionar {
+	width:100%;
+	height:auto;
+	background-color:transparent;
+	border:none;
+	opacity:;
+	cursor:pointer;
+}
+.btnLogout {
+	color: #a3130d;
+	padding: 20px;
+	list-style: none;
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+	opacity: 1;
+	border: none;
+	border-radius: 2px;
+	background-color: transparent;
+	cursor: pointer;
+	transition: all 0.5s;
+	font-weight: 600;
+}
+
+.btnLogout:hover {
+	color: #FFFFFF;
+	background-color: #a3130d;
+	transition: all 0.5s;
+}
+.btnVoltar {
+	margin-right: -5px;
+	color: #a3130d;
+	padding: 20px;
+	list-style: none;
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+	opacity: 1;
+	border: none;
+	border-radius: 2px;
+	background-color: transparent;
+	cursor: pointer;
+	transition: all 0.5s;
+	font-weight: 600;
+}
+.btnVoltar:hover {
+	color: #FFFFFF;
+	background-color: #a3130d;
+	transition: all 0.5s;
+}
+.general_inner {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	background-image: url("../images/index/livros4.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	text-align: center;
+}
+
+.general_inner nav {
+	width: 80%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+}
+
+.general_inner li {
+	display: inline-block;
+	text-align: center;
+}
+
+.general_inner a {
+	padding: 60px 40px 60px 40px;
+	list-style: none;
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-weight: bold;
+	opacity: 1;
+	border-radius: 5px;
+	text-shadow: 0px 1px 4px #000000;
+	box-shadow: inset 0px 0px 3px 1px #FFFFFF;
+	background-image: linear-gradient(to left, transparent, transparent 50%, #a3130d 50%, #a3130d);
+	background-position: 100% 0;
+	background-size: 200% 100%;
+	transition: all 0.4s ease-in;
+}
+.general_inner a:hover {
+	box-shadow: inset 0px 0px 3px 1px #000000;
+	text-shadow: none;
+	background-position: 0 0;
+	transition: all 0.4s ease-in;
+	color: #FFFFFF;
+}
+.div_top_inner {
+	width:100%;
+	height:auto;
+	display:inline-block;
+	position:relative;
+	background-color:transparent;
+}
+
+
+.DivBotoes {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	box-shadow: 1px 5px 8px #EFEEEB;
+	border-bottom: 1px solid #EFEEEB;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #F2F3F4;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+.AsteriscoValida {
+	color: #ff0000;
+}
+
+.CheckValida {
+	color: #06f704;
+}
+.li_btn_cad_curso {
+	width: auto;
+	list-style: none;
+	background-color:;
+	text-align: center;
+	display: inline-block;
+}
+.LiNomeDosCampos {
+	margin-top: 20px;
+	padding-bottom: 10px;
+	font-size:;
+	color: #a3130d;
+	list-style: none;
+	text-shadow: 0px 1px 4px #ccc;
+}
+.txt_cadastros:hover {
+	background-color: #F5F5DC;
+	transition: 0.5s all;
+	border: 1px solid #000000;
+	box-shadow: 0px 0px 3px #000000;
+}
+
+.txt_cadastros:focus {
+	background-color: #F5F5DC;
+	border: 1px solid #a3130d;
+	box-shadow: 0px 0px 3px #a3130d;
+	transition: 0.5s all;
+}
+/*----------------------------------------------CADASTRO DE CURSOS---------------------------------------------------*/
+.general_inner_cursos {
+	width: 100%;
+	min-height:100vh;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	background-color: #F7F9F9;
+}
+
+.nav_cad_cursos ul {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	display: inline-block;
+	position: relative;
+}
+.nav_cad_cursos li {
+	list-style:none;
+}
+.lbl_cursos {
+	margin-top: 70px;
+	padding-bottom: 10px;
+	font-size: 1.4em;
+	color: #a3130d;
+	list-style: none;
+}
+
+.li_lbl_nomes {
+	width: 100%;
+	list-style: none;
+	background-color:;
+	display: inline-block;
+	position: relative;
+	padding-top: 20px;
+	text-align: center;
+	color: #a3130d;
+}
+.DivLabelAvisaErro {
+	width:100%;
+	height:auto;
+	display:inline-block;
+	position:relative;
+	background-color:;
+}
+.lbl_aviso_erro {
+	color: #ff0000;
+	font-size: 1.3em;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	height: 25px;
+	background-color:;
+	transition: 0.5s all;
+	background-color:;
+}
+
+
+
+.li_btn_cad_curso button {
+	width: 120px;
+	height: 60px;
+	color: #a3130d;
+	background-color: #F2F3F4;
+	border: 1px solid #F2F3F4;
+	border-radius: 3px;
+	transition: 0.5s all;
+	box-shadow: 0px 0px 1px 1px #F2F3F4;
+	cursor: pointer;
+}
+
+.li_btn_cad_curso button:hover {
+	color: #FFFFFF;
+	background-color: #a3130d;
+	transition: 0.5s all;
+	border: 1px solid #a3130d;
+	box-shadow: 0px 0px 1px 1px #000000;
+}
+/*----------------------------------------------FIM CADASTRO DE CURSOS------------------------------------------------*/
+
+
+/*----------------------------------------------CADASTRO DE DOCUMENTOS------------------------------------------------*/
+.DivBotoesPagina {
+	background-color: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.PaginaAtual li {
+	color: #a3130d;
+	list-style: none;
+	text-decoration: none;
+	padding: 5px;
+	background-color: #F5F5DC;
+	border-radius: 10px;
+	transition: 0.5s all;
+}
+
+.BotaoPaginaAnteriorProxima {
+	padding: 5px;
+	color: #000000;
+	background-color:;
+	text-decoration: none;
+	transition: 0.5s all;
+}
+.BotaoPaginaAnteriorProxima:hover {
+	color: #a3130d;
+	transition:0.5s all;
+}
+.NumeroPaginasExistentes {
+	padding: 5px;
+	color: #000000;
+	background-color:;
+	text-decoration: none;
+	transition: 0.5s all;
+}
+.NumeroPaginasExistentes:hover {
+	padding: 5px;
+	color: #a3130d;
+	transition: 0.5s all;
+}
+
+.nav_cad_documentos {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	background-color: transparent;
+	box-shadow: 1px 5px 50px #F2F4F4;
+}
+
+.nav_cad_documentos ul {
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	display: inline-block;
+	position: relative;
+}
+
+.nav_cad_documentos li {
+	list-style: none;
+}
+.inner_cad_documentos {
+	width: 100%;
+	height: auto;
+	min-height: 100vh;
+	display: inline-block;
+	position: relative;
+	background-color: #F7F9F9;
+	text-align: center;
+}
+
+.DivTituloDocumentos {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	background-color: #a3130d;
+	box-shadow: 1px 1px 8px #000000;
+	z-index: 10;
+}
+
+.LiTituloCadastroDeDocumento {
+	margin-top: 15px;
+	font-size: 1.4em;
+	color: #FFFFFF;
+	text-shadow: 0px 1px 4px #000000;
+}
+
+.LiInformativo {
+	text-align: right;
+	margin-right: 20px;
+	color: #FFFFFF;
+	text-shadow: 0px 1px 4px #000000;
+}
+.DivFileUploadDocumentos li {
+	text-decoration:none;
+	list-style:none;
+}
+.div_lv_titulos_alunos ul {
+	width: 100%;
+	height: auto;
+	display:;
+	position: relative;
+}
+.div_lv_titulos_alunos li {
+	margin-left: 10px;
+	padding-top: 10px;
+	width: 95%;
+	height: auto;
+	list-style: none;
+	text-align: left;
+}
+.box-toggle {
+	color:#a3130d;
+	cursor:pointer;
+	transition:0.5s all;
+}
+.box-toggle:hover {
+	color:#ff0000;
+	transition:0.5s all;
+}
+.tgl {
+	color: #000000;
+}
+.li_titulo {
+	font-size: 1.3em;
+	color: #000000;
+}
+.NomesCamposListView {
+	color: #a3130d;
+	font-size: 1.1em;
+}
+.LinkButtonListView:hover {
+	color: #ff0000;
+	transition: 0.5s all;
+}
+
+.BotaoSelecionarListView:hover {
+	background-color: #a3130d;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+	box-shadow: 0px 0px 3px 1px #000000;
+}
+.DivFiltrarListView {
+	padding-top: 25px;
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	position: relative;
+	background-color: #a3130d;
+	box-shadow: 1px 1px 8px #000000;
+}
+.LiFiltroListView {
+	margin-top: 20px;
+	padding-bottom: 10px;
+	font-size: 1.2em;
+	color: #FFFFFF;
+	list-style: none;
+	text-shadow: 0px 1px 4px #000000;
+}
+.meu-box {
+	background-color:;
+	position: relative;
+}
+
+.input-nome {
+	position: relative;
+	margin-top: 10px;
+	box-sizing: content-box;
+	z-index: 2;
+}
+
+.MensagemAjuda {
+	width: 100%;
+	position: absolute;
+	color: #ffeb0a;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	transition: 0.5s;
+	opacity: 0;
+}
+
+.input-nome:focus + .MensagemAjuda {
+	margin-top: 0px;
+	top: -60%;
+	z-index: 5;
+	transition: 0.2s;
+	opacity: 1;
+}
+
+/*
+	MOSTRAR UMA MENSAGEM DE AVISO QUANDO PASSAR O MOUSE EM CIMA 	
+.MensagemBotao{
+	width: 300px;
+	height:auto;
+	display:block;
+	position: absolute;
+	color: Goldenrod;
+	transition: 0.5s;
+	opacity: 0;
+	background-color:;
+	top:-50%;
+}
+.HoverBotoes:hover + .MensagemBotao {
+	z-index: 5;
+	transition: 0.2s;
+	opacity: 1;
+	width:;
+}
+*/
+/*----------------------------------------------FIM CADASTRO DE DOCUMENTOS------------------------------------------------*/
+@media all and (min-width: 1024px) {
+	.div_unidade_1023px {
+		display:none;
+	}
+	
+	.div_usuario {
+		width: 33%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: left;
+		background-color: transparent;
+		font-weight: bold;
+		text-align: left;
+	}
+	.div_unidade_1024px {
+		width: 34%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color: transparent;
+		text-align: center;
+	}
+
+	.div_btnlogout {
+		width: 33%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: right;
+		background-color: transparent;
+		text-align: right;
+	}
+	.general_inner ul {
+		margin-top: 40vh;
+		margin-bottom: 30vh;
+		padding: 0px;
+		width: auto;
+		height: auto;
+		display: inline-block;
+		position: relative;
+	}
+
+/*----------------------------------------------CADASTRO DE CURSOS-----------------------------------------------*/
+	.nav_cad_cursos {
+		width: 80%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color: transparent;
+		box-shadow: 1px 5px 50px #F2F4F4;
+	}
+
+	.div_gridview {
+		margin-top: 50px;
+		margin-bottom: 50px;
+		display: inline-block;
+		position: relative;
+		width: 50%;
+		height: auto;
+		text-align: center;
+		background-color:;
+		border: 2px solid black;
+		border-radius: 5px;
+	}
+
+	.css_gridview {
+		width: 100%;
+		background-color: #FFFFFF;
+		color: #a3130d;
+	}
+
+	.css_gridview td {
+		padding: 12px;
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+	}
+
+	.css_gridview th {
+		background-color: #a3130d;
+		padding: 4px;
+		color: #FFFFFF;
+	}
+
+	.alt {
+		background-color: #FFF8DC;
+	}
+
+	.css_gridview a {
+		padding: 10px;
+		list-style: none;
+		text-decoration: none;
+		color: #a3130d;
+		background-color:;
+		transition: 0.5s all;
+		border: 1px solid #FFFFFF;
+		border-radius: 2px;
+	}
+
+	.css_gridview a:hover {
+		color: #FFFFFF;
+		border: 1px solid #a3130d;
+		background-color: #a3130d;
+		transition: 0.5s all;
+	}
+	/*----------------------------------------------FIM CADASTRO DE CURSOS------------------------------------------------*/
+
+	/*----------------------------------------------CADASTRO DE DOCUMENTOS------------------------------------------------*/
+	
+	.DivEsquerdaDocumentos {
+		width: 50%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color:;
+		float: left;
+	}
+	.DivDireitaDocumentos {
+		width: 50%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color: ;
+		float: right;		
+	}
+	.DivFileUploadDocumentos {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+	}
+	.DivUploadPdf {
+		width: 50%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: left;
+		background-color:;
+	}
+
+	.DivUploadRar {
+		width: 50%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: right;
+		background-color:;
+	}
+	.txt_cadastros {
+		padding-left: 5px;
+		background-color: #FFFFFF;
+		width: 350px;
+		height: 40px;
+		border: 1px solid #aaa;
+		box-shadow: 0px 0px 3px #ccc;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: left;
+		color: #000000;
+		font-size: 1em;
+	}
+	
+	#LiNomePdfDoTitulo, #LiNomeRarDoTitulo {
+		margin-bottom: 30px;
+	}
+	.LinkButtonFileUpload {
+		background-color: #FFFFFF;
+		border: 1px solid #aaa;
+		box-shadow: 0px 0px 3px #ccc;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: center;
+		color: #a3130d;
+		font-size: 1em;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 130px;
+		padding-right: 130px;
+		text-decoration: none;
+		box-shadow: 0px 0px 3px #FFFFFF;
+	}
+	.LinkButtonFileUpload:hover {
+		background-color: #a3130d;
+		transition: 0.5s all;
+		color: #FFFFFF;
+		border: 1px solid #000000;
+		box-shadow: 0px 0px 3px #000000;
+	}
+	.TextBoxFileUpload {
+		margin-top: 30px;
+		width:420px;
+		height:40px;
+		background-color:transparent;
+		border: none;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: center;
+		color: #000000;
+		font-size: 1em;
+	}
+	
+	.div_bottom_inner {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+	}
+	.div_lv_titulos_alunos {
+		margin: 10px;
+		width: 55%;
+		height: auto;
+		background-color: #E8E8E8;
+		display: inline-block;
+		position: relative;
+		transition: 0.5s all;
+		box-shadow: 1px 1px 8px #000000;
+		border-radius:2px;
+	}
+	.div_lv_titulos_alunos:hover, .div_lv_titulos_alunos:active {
+		background-color: #FFF5EE;
+		transition: 0.5s all;
+	}
+	.div_lv_titulos_alunos::before, .div_lv_titulos_alunos::after {
+		content: "";
+		width: 0;
+		height: 2px;
+		position: absolute;
+		transition: all 0.2s linear;
+		background: #a3130d;
+	}
+
+	.SpanDivTitulosAlunos::before, .SpanDivTitulosAlunos::after {
+		content: "";
+		width: 2px;
+		height: 0;
+		position: absolute;
+		transition: all 0.2s linear;
+		background: #a3130d;
+	}
+
+	.div_lv_titulos_alunos:hover::before, .div_lv_titulos_alunos:hover::after {
+		width: 100%;
+	}
+
+	.div_lv_titulos_alunos:hover .SpanDivTitulosAlunos::before, .div_lv_titulos_alunos:hover .SpanDivTitulosAlunos::after {
+		height: 100%;
+	}
+	.div_lv_titulos_alunos::before {
+		left: 50%;
+		top: 0;
+		transition-duration: 0.4s;
+	}
+
+	.div_lv_titulos_alunos::after {
+		left: 50%;
+		bottom: 0;
+		transition-duration: 0.4s;
+	}
+
+	.div_lv_titulos_alunos .SpanDivTitulosAlunos::before {
+		left: 0;
+		top: 50%;
+		transition-duration: 0.4s;
+	}
+
+	.div_lv_titulos_alunos .SpanDivTitulosAlunos::after {
+		right: 0;
+		top: 50%;
+		transition-duration: 0.4s;
+	}
+
+	.div_lv_titulos_alunos:hover::before, .div_lv_titulos_alunos:hover::after {
+		left: 0;
+	}
+
+	.div_lv_titulos_alunos:hover span::before, .div_lv_titulos_alunos:hover span::after {
+		top: 0;
+	}
+
+
+	.ValoresBancoDeDados {
+		width:100%;
+		height:auto;
+		display:inline-block;
+		position:;
+		background-color:;
+	}
+	.LinkButtonListView {
+		text-decoration: none;
+		padding-bottom: 5px;
+		padding-top:5px;
+		padding-right:10px;
+		color: #a3130d;
+		transition: 0.5s all;
+	}
+	
+	.BotaoSelecionar {
+		padding-top:10px;
+		padding-bottom:10px;
+		width:100%;
+		height:auto;
+		position:relative;
+		background-color:;
+		text-align:center;
+		margin-top:10px;
+		margin-bottom:20px;
+	}
+	.BotaoSelecionarListView {
+		border: 1px solid #a3130d;
+		border-radius: 10px;
+		background-color: #FFF5EE;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-left: 35%;
+		padding-right: 35%;
+		color: #a3130d;
+		transition: 0.5s all;
+		text-decoration: none;
+		box-shadow: 0px 0px 3px 1px #a3130d;
+	}
+	
+	/*----------------------------------------------FIM CADASTRO DE DOCUMENTOS------------------------------------------------*/
+}
+@media all and (min-width: 0px) and (max-width: 1023px) {
+	.div_usuario {
+		width: 30%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: left;
+		background-color: transparent;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.div_unidade_1024px {
+		display:none;
+	}
+	.general_inner a {
+		color: #FFFFFF;
+		background-color: #a3130d;
+		box-shadow: inset 0px 0px 3px 1px #000000;
+		margin:5px;
+	}
+	.div_btnlogout {
+		width: 70%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		float: right;
+		background-color:;
+		text-align: right;
+	}
+	.btnLogout, .btnVoltar {
+		color: #FFFFFF;
+		background-color: #a3130d;
+		box-shadow: 0px 0px 1px 1px #000000;
+	}
+	.div_unidade_1023px {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color: transparent;
+		text-align: center;
+	}
+	.general_inner ul {
+		margin-top: 20vh;
+		margin-bottom: 30vh;
+		padding: 0px;
+		width: auto;
+		height: auto;
+		display: inline-block;
+		position: relative;
+	}
+	.li_btn_cad_curso button {
+		color: #FFFFFF;
+		background-color: #a3130d;
+		border: 1px solid #a3130d;
+		border-radius: 2px;
+		box-shadow: 0px 0px 1px 1px #000000;
+		cursor: pointer;
+	}
+	.nav_cad_cursos {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color: transparent;
+		box-shadow: 1px 5px 50px #F2F4F4;
+	}
+
+	/*----------------------------------------------CADASTRO DE DOCUMENTOS------------------------------------------------*/
+	.DivEsquerdaDocumentos {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color:;
+	}
+
+	.DivDireitaDocumentos {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color:;
+	}
+
+	.DivFileUploadDocumentos {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+		background-color:;
+	}
+
+	.txt_cadastros {
+		padding-left: 5px;
+		background-color: #FFFFFF;
+		width: 290px;
+		height: 40px;
+		border: 1px solid #aaa;
+		box-shadow: 0px 0px 3px #ccc;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: left;
+		color: #000000;
+		font-size: 1em;
+	}
+
+	#LiNomePdfDoTitulo, #LiNomeRarDoTitulo {
+		margin-bottom: 30px;
+	}
+
+	.LinkButtonFileUpload {
+		background-color: #a3130d;
+		border: 1px solid #000000;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: center;
+		color: #FFFFFF;
+		font-size: 1em;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 80px;
+		padding-right: 80px;
+		text-decoration: none;
+		box-shadow: 0px 0px 3px #FFFFFF;
+	}
+	.LinkButtonFileUpload:hover {
+		background-color: #a3130d;
+		transition: 0.5s all;
+		color: #FFFFFF;
+		border: 1px solid #000000;
+		box-shadow: 0px 0px 3px #000000;
+	}
+	.TextBoxFileUpload {
+		margin-top: 30px;
+		width: 290px;
+		height: 40px;
+		background-color: transparent;
+		border:none;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: center;
+		color: #000000;
+		font-size: 1em;
+	}
+	.div_bottom_inner {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position: relative;
+	}
+	.div_lv_titulos_alunos:hover, .div_lv_titulos_alunos:active {
+		background-color: #E8E8E8;
+		border: 1px solid #1C1C1C;
+		box-shadow: 0px 0px 3px 1px #1C1C1C;
+		transition: 0.5s all;
+	}
+	.div_lv_titulos_alunos {
+		margin-bottom: 10px;
+		width: 95%;
+		height: auto;
+		background-color: #FFF5EE;
+		border: 1px solid #ccc;
+		border-radius: 10px;
+		display: inline-block;
+		position: relative;
+		transition: 0.5s all;
+		box-shadow: 0px 0px 3px 1px #1C1C1C;
+	}
+
+	.BotaoSelecionarListView {
+		border: 1px solid #000000;
+		border-radius: 10px;
+		background-color: #a3130d;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-left: 30%;
+		padding-right: 30%;
+		color: #FFF5EE;
+		transition: 0.5s all;
+		text-decoration: none;
+		box-shadow: 0px 0px 3px 1px #000000;
+	}
+	.ValoresBancoDeDados {
+		width: 100%;
+		height: auto;
+		display: inline-block;
+		position:;
+		background-color:;
+	}
+
+	.LinkButtonListView {
+		text-decoration: none;
+		padding-bottom: 5px;
+		padding-top:5px;
+		color: #a3130d;
+		transition: 0.5s all;
+	}
+
+	.BotaoSelecionar {
+		margin-top: 10px;
+		margin-bottom: 20px;
+		width: 100%;
+		height: auto;
+		position: relative;
+		background-color:;
+		text-align: center;
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+
+	/*----------------------------------------------FIM CADASTRO DE DOCUMENTOS------------------------------------------------*/
+}
+@media all and (min-width: 600px) and (max-width: 1023px) {
+	/*----------------------------------------------CADASTRO DE CURSOS-----------------------------------------------*/
+	.div_gridview {
+		margin-top: 50px;
+		margin-bottom: 50px;
+		display: inline-block;
+		position: relative;
+		width: 90%;
+		height: auto;
+		text-align: center;
+		background-color:;
+		border: 2px solid black;
+		border-radius: 5px;
+	}
+
+	.css_gridview {
+		width: 100%;
+		background-color:;
+		color: #a3130d;
+	}
+
+	.css_gridview td {
+		padding: 12px;
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+	}
+
+	.css_gridview th {
+		background-color: #a3130d;
+		padding: 4px;
+		color: #FFFFFF;
+	}
+
+	.alt {
+		background-color: #FFF8DC;
+	}
+
+	.css_gridview a {
+		padding: 10px;
+		list-style: none;
+		text-decoration: none;
+		color: #a3130d;
+		background-color:;
+		transition: 0.5s all;
+		border: 1px solid #FFFFFF;
+		border-radius: 2px;
+	}
+
+	.css_gridview a:hover {
+		color: #FFFFFF;
+		border: 1px solid #a3130d;
+		background-color: #a3130d;
+		transition: 0.5s all;
+	}
+	/*----------------------------------------------FIM CADASTRO DE CURSOS------------------------------------------------*/
+
+	
+}
+@media all and (min-width: 0px) and (max-width: 599px) {
+	/*----------------------------------------------CADASTRO DE CURSOS-----------------------------------------------*/
+	.li_txt-ddl {
+		width: 250px;
+		height: auto;
+		list-style: none;
+		display: inline-block;
+		position: relative;
+		margin-bottom: 15px;
+		text-align: center;
+		background: url(../images/valida-campos/asterisco_vermelho.png) no-repeat 98% center;
+	}
+	.txt_cad_cursos {
+		margin-top:2px;
+		background-color: #FFFFFF;
+		width: 250px;
+		height: 35px;
+		border: 1px solid #aaa;
+		box-shadow: 0px 0px 3px #ccc;
+		border-radius: 5px;
+		transition: 0.5s all;
+		text-align: center;
+		color: black;
+		font-size: 1em;
+	}
+	.txt_cad_cursos:focus {
+		background-color: #F5F5DC;
+		border: 1px solid #a3130d;
+		box-shadow: 0px 0px 3px #a3130d;
+		transition: 0.5s all;
+	}
+	.div_gridview {
+		margin-top: 50px;
+		margin-bottom: 50px;
+		display: inline-block;
+		position: relative;
+		width: 98%;
+		height: auto;
+		text-align: center;
+		background-color:;
+		border: 2px solid black;
+		border-radius: 5px;
+	}
+
+	.css_gridview {
+		font: 3.0vw arial, sans-serif;
+		width: 100%;
+		background-color:;
+		color: #a3130d;
+	}
+
+	.css_gridview td {
+		padding-right: 3px;
+		padding-left:3px;
+		padding-bottom:5px;
+		padding-top:5px;
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+	}
+
+	.css_gridview th {
+		background-color: #a3130d;
+		padding: 4px;
+		color: #FFFFFF;
+	}
+
+	.alt {
+		background-color: #FFF8DC;
+	}
+
+	.css_gridview a {
+		padding: 0px;
+		list-style: none;
+		text-decoration: none;
+		color: #a3130d;
+		background-color:;
+		transition: 0.5s all;
+		border: 1px solid #FFFFFF;
+		border-radius: 2px;
+	}
+
+	.css_gridview a:hover {
+		color: #FFFFFF;
+		border: 1px solid #a3130d;
+		background-color: #a3130d;
+		transition: 0.5s all;
+	}
+	/*----------------------------------------------FIM CADASTRO DE CURSOS------------------------------------------------*/
+}

@@ -1,0 +1,330 @@
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\ApplicationInsights.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\TCCon.dll.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\MySql.Data.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\WebGrease.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\obj\Release\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso DESIGN (finalizado)\TCCon\TCCon\obj\Release\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\ApplicationInsights.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\TCCon.dll.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\MySql.Data.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\WebGrease.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\obj\Release\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_curso finalizado\TCCon\TCCon\obj\Release\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\ApplicationInsights.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\TCCon.dll.config
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\MySql.Data.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\WebGrease.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\obj\Release\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCon\TCCon cad_documentos 2.0\TCCon\TCCon\obj\Release\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\ApplicationInsights.config
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\TCCon.dll.config
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\TCCon.pdb
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\MySql.Data.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\WebGrease.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\MySql.Data.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\obj\Release\TCCon.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\obj\Release\TCCon.dll
+C:\Users\Rodrigo\Desktop\TCCON orientado a objeto\MonografiasLayoutFinalizado\TCCon\TCCon\obj\Release\TCCon.pdb
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\ApplicationInsights.config
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\TCCon.dll.config
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\TCCon.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\TCCon.pdb
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Antlr3.Runtime.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\MySql.Data.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Newtonsoft.Json.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\System.Web.Optimization.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\WebGrease.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\MySql.Data.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\System.Web.Optimization.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Newtonsoft.Json.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\obj\Release\TCCon.csproj.CopyComplete
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\obj\Release\TCCon.dll
+M:\TCCON orientado a objeto\AlteracaoFinal\TCCon\TCCon\obj\Release\TCCon.pdb
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\ApplicationInsights.config
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\TCCon.dll.config
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\TCCon.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\TCCon.pdb
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Antlr3.Runtime.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\MySql.Data.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Newtonsoft.Json.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\System.Web.Optimization.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\WebGrease.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\MySql.Data.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\System.Web.Optimization.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Newtonsoft.Json.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\obj\Release\TCCon.csprojResolveAssemblyReference.cache
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\obj\Release\TCCon.csproj.CopyComplete
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\obj\Release\TCCon.dll
+M:\TCCON orientado a objeto\UlitmosAjustesSobreNos\TCCon\TCCon\obj\Release\TCCon.pdb
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\ApplicationInsights.config
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\TCCon.dll.config
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\TCCon.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\TCCon.pdb
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Antlr3.Runtime.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Newtonsoft.Json.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\System.Web.Optimization.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\WebGrease.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\MySql.Data.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\System.Web.Optimization.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Newtonsoft.Json.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\obj\Release\TCCon.csproj.CopyComplete
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\obj\Release\TCCon.dll
+E:\TCCON orientado a objeto\AlteracaoVasconcelosLobo\TCCon\TCCon\obj\Release\TCCon.pdb
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\ApplicationInsights.config
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\TCCon.dll.config
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\TCCon.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\TCCon.pdb
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Antlr3.Runtime.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\AspNet.ScriptManager.bootstrap.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\AspNet.ScriptManager.jQuery.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.Web.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.ScriptManager.WebForms.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.Web.Infrastructure.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Newtonsoft.Json.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\System.Web.Optimization.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\WebGrease.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\MySql.Data.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\System.Web.Optimization.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Antlr3.Runtime.pdb
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Newtonsoft.Json.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.ApplicationInsights.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.DependencyCollector.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.WindowsServer.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\Microsoft.AI.Web.xml
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\pt-br\System.Web.Optimization.resources.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\obj\Release\TCCon.csprojAssemblyReference.cache
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\obj\Release\TCCon.csproj.CoreCompileInputs.cache
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\obj\Release\TCCon.csproj.CopyComplete
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\obj\Release\TCCon.dll
+E:\TCCON orientado a objeto\finalizado\TCCon\TCCon\obj\Release\TCCon.pdb
